@@ -1,8 +1,8 @@
-# Title
+# Welcome to the home of RinkusKhan.
 
-## Heading
+## Brief Description:
 
-## Heading 2
+### Independant Projects and ATRUM tools.
 
 Normal
 

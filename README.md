@@ -2,7 +2,7 @@
 
 ## Brief Description:
 
-### Independant Projects and ATRUM tools.
+### Independant Projects and tools for ATRUM Films.
 
 - ⚡ ATRUM tools closed to the public at this time...
 

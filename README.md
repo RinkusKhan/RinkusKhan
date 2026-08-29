@@ -2,9 +2,9 @@
 
 ## Brief Description:
 
-### Independant Projects and tools for ATRUM Films.
+### Independant Projects and tools from ATRUM Films.
 
-- ⚡ ATRUM tools closed to the public at this time...
+###
 
 <!-- **RinkusKhan/RinkusKhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
